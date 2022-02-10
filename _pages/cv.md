@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Department of Architecture, Graduate School of Engineering, The University of Tokyo, 2021
-* M.S.      School of Energy and Environment, Southeast University, 2016
-* B.S.      School of Mechanical Engineering, Tongji University, 2013
+* Ph.D. -Department of Architecture, Graduate School of Engineering, The University of Tokyo, 2021
+* M.S.  -School of Energy and Environment, Southeast University, 2016
+* B.S.  -School of Mechanical Engineering, Tongji University, 2013
 
 Work experience
 ======

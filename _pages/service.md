@@ -16,5 +16,5 @@ author_profile: true
 * Architectural Institute of Japan (2018 – )
 * The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan (2018 – )
 
-## Conference session chair:
-* Indoor Air 2014
+## Others:
+* Session chair of Indoor Air 2014

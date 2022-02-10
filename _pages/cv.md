@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Department of Architecture, Graduate School of Engineering, The University of Tokyo, 2021
+* M.S. School of Energy and Environment, Southeast University, 2016
+* B.S. School of Mechanical Engineering, Tongji University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 to present: Postdoc Researcher
+  * Institute of Industrial Science, The University of Tokyo
+* 2011 to 2012: Intern
+  * Siemens Real Estate, Siemens Co., Ltd.
+  
+Research interests
+======
+* AI applications in built environment
+* Smart buildings
+* Building performance simulation
+* CFD in built environment
+* Indoor air quality
+* Ventilation and airborne infection control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Selected Publications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Q. Zhou**, R. Ooka. Implementation of a coupled simulation framework with neural network and Modelica for fast building energy simulation considering non-uniform indoor environment. Building and Environment, 2022; 211: 108740.
+* **Q. Zhou**, R. Ooka. Performance of neural network for indoor airflow prediction: Sensitivity towards weight initialization. Energy and Buildings, 2021; 246: 111106.
+* **Q. Zhou**, R. Ooka. Influence of data preprocessing on neural network performance for reproducing CFD simulations of non-isothermal indoor airflow distribution. Energy and Buildings, 2020; 230: 110525.
+* **Q. Zhou**, R. Ooka. Comparison of different deep neural network architectures for isothermal indoor airflow prediction. Building Simulation, 2020; 13(6): 1409-1423.
+* **Q. Zhou**, H. Qian, L. Liu. Numerical investigation of airborne infection in naturally ventilated hospital wards with central-corridor type. Indoor and Built Environment, 2018; 27(1): 59-69.
+* **Q. Zhou**, H. Qian, H. Ren, Y. Li, P.V. Nielsen. The lock-up phenomenon of exhaled flow in a stable thermally-stratified indoor environment. Building and Environment, 2017; 116: 246-256.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

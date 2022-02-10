@@ -4,13 +4,18 @@ main:
     url: /publications/
 
   - title: "Presentations & Talks"
-    url: /talks/    
+    url: /presentationstalks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  # url: /teaching/    
     
-  #- title: "Portfolio"
-  # url: /portfolio/
+  - title: "Portfolio"
+   url: /portfolio/
+   
+   - title: "Service"
+    url: /service/
+   
+   
         
   - title: "Activities"
     url: /year-archive/

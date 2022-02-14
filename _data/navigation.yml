@@ -5,14 +5,12 @@ main:
 
   - title: "Presentations & Talks"
     url: /talks/    
-
-  #- title: "Teaching"
-  # url: /teaching/    
+ 
     
   - title: "Portfolio"
    url: /portfolio/
    
-   - title: "Service"
+  - title: "Service"
     url: /service/
    
    
@@ -23,5 +21,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+

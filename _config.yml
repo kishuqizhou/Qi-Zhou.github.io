@@ -85,8 +85,7 @@ author:
   bio              : "Research Fellow, Institute of Industrial Science, The University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  #"http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "qizhou@iis.u-tokyo.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Qi-Zhou-91"
   uri              :
